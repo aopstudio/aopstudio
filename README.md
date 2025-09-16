@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm aopstudio</h1>
-<h3 align="center">An AI engineer in Shanghai</h3>
+# Hi there, I'm Zhedong Cen 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aopstudio&label=Profile%20views&color=0e75b6&style=flat" alt="aopstudio" /> </p>
+![Profile Banner](https://img.shields.io/badge/Welcome%20to%20my%20GitHub-blue?style=for-the-badge)
 
-- 🔭 I’m currently working on **AI, RAG, Hugging Face**
+## 👨‍💻 About Me
 
-- 📝 I regularly write articles on [neusoftware.top](https://neusoftware.top)
+- 🎓 Master's degree in **Computer Science and Technology** from East China University of Science and Technology (Sep 2022 – Jun 2025)
+- 🎓 Bachelor's degree in **Software Engineering** from Northeastern University (China) (Sep 2016 – Jun 2020)
+- 💼 **AI Application Engineer @ China Telecom** (since Jul 2025)
+- 📍 From Zhejiang, now working in Shanghai, China.
+- 🌐 Personal blog: [neusoftware.top](https://neusoftware.top)
+- 💡 Passionate about **Python development**, **Natural Language Processing** and **RAG (Retrieval-Augmented Generation)**.
 
-- 💬 Ask me about **Dify, RagFlow**
+---
 
-- 📫 How to reach me **cenzhedong2@126.com**
+## 🏆 Work & Internship Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### China Telecom · AI Application Engineer (Jul 2025 – Present)
+- Working on AI-driven applications and solutions for enterprise scenarios
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aopstudio&theme=onedark&row=2&column=4" alt="aopstudio" /></a> </p>
+### Ruijie Networks · AIGC Algorithm Engineer Intern (Jul 2024 – Aug 2024)
+- Enhanced parsing, OCR, knowledge graph & multimodal integration for RAG system
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aopstudio&show_icons=true&locale=en" alt="aopstudio" /></p>
+### InfiniFlow · Python Developer Intern (May 2024 – Jun 2024)
+- Developed & improved [RagFlow](https://github.com/infiniflow/ragflow) (60k+ ⭐)
+
+### STARNET eVideo · NodeJS Engineer (Jul 2020 – Jul 2022)
+- Developed backend services using Node.js (Egg.js + Sequelize) for eVideo karaoke machine systems
+
+---
+
+## 🚀 Projects
+
+- **[RagFlow](https://github.com/infiniflow/ragflow)**  
+  Open-source RAG engine for deep document understanding and complex data Q&A. Contributed as a core developer for v0.8.0.
+
+---
+
+## 📚 Publications
+
+- **Can Multimodal Large Language Models Understand Spatial Relations?**  _ACL 2025_ (implemented the code)
+- **基于生成模型的开放域关系推理方法** – _计算机研究与发展_ 
+- **MA-MRC: A Multi-answer Machine Reading Comprehension Dataset** – _SIGIR 2023_ (data annotation)
+
+
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=aopstudio&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=aopstudio&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)

@@ -24,7 +24,7 @@
 
 ## 📚 Publications
 
-- **Can Multimodal Large Language Models Understand Spatial Relations?**  _ACL 2025_ (implemented the code)
+- **Can Multimodal Large Language Models Understand Spatial Relations?** – _ACL 2025_ (implemented the code)
 - **基于生成模型的开放域关系推理方法** – _计算机研究与发展_ 
 - **MA-MRC: A Multi-answer Machine Reading Comprehension Dataset** – _SIGIR 2023_ (data annotation)
 
